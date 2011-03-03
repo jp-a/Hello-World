@@ -11,18 +11,15 @@ Quick Install to your local environment
 ---------------------------------------
 Assuming you already have [Apache][apache] + [PHP 5.3][php] + [MySQL][mysql] installed:
 
-- Clone the repository to your local environment
-
+Clone the repository to your local environment
 
     clone git@github.com:keylib/Key-Lib.git
 
-- Edit environment configuration file to check parameters
-
+Edit environment configuration file to check parameters
 
     env.cfg 
 
-- Launch following script to init the environment
-
+Launch following script to init the environment
 
     make init
 
@@ -35,12 +32,12 @@ Your local environment is ready...
 
 Development Guidelines
 ----------------------
-- Perform modification on your local environment
-- Commit modification to your lcoal environment
+Perform modification on your local environment
+Commit modification to your lcoal environment
 
     git commit 
 
-- Commit modifications when the fix/feature is stable
+Commit modifications when the fix/feature is stable
 
     git push
 
