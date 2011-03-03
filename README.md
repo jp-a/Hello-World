@@ -11,6 +11,8 @@ Quick Install to your local environment
 ---------------------------------------
 Assuming you already have [Apache][apache] + [PHP 5.3][php] + [MySQL][mysql] installed:
 
+    clone git@github.com:keylib/Key-Lib.git
+
 - Clone the repository to your local environment
 
     clone git@github.com:keylib/Key-Lib.git
