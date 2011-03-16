@@ -13,7 +13,7 @@ Assuming you already have [Apache][apache] + [PHP 5.3][php] + [MySQL][mysql] ins
 
 Clone the repository to your local environment
 
-    clone git@github.com:keylib/Key-Lib.git
+    clone git@github.com:xxx/yyy.git
 
 Edit environment configuration file to check parameters
 
@@ -33,7 +33,7 @@ Your local environment is ready...
 Development Guidelines
 ----------------------
 Perform modification on your local environment
-Commit modification to your lcoal environment
+Commit modification to your local environment
 
     git commit 
 
@@ -43,7 +43,7 @@ Commit modifications when the fix/feature is stable
 
 Todo
 ----
-The cwfollowing workflow shall be followed ultimatly:
+The following workflow shall be followed ultimately:
 [A successful Git branching model][branching]
    
 
